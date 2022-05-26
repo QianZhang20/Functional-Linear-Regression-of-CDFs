@@ -45,9 +45,9 @@ python3 sim_dim.py
 
 ## Real data experiments (Section 4.2)
 
-### Estimation errors of the estimator $\hat{\theta}_{\lambda}$ and the projected estimator $\tilde{\theta}_{\lambda}$ (Figure 1c)
+### Estimation errors of the estimator $`\hat{\theta}_{\lambda}`$ and the projected estimator $`\tilde{\theta}_{\lambda}`$ (Figure 1c)
 
-To obtain the $\ell^2$ errors of $\hat{\theta}_{\lambda}$ and $\tilde{\theta}_{\lambda}$ in the real data experiments, run:
+To obtain the $\ell^2$ errors of $`\hat{\theta}_{\lambda}`$ and $`\tilde{\theta}_{\lambda}`$ in the real data experiments, run:
 
 ```
 Rscript exp_real_data.R
@@ -72,7 +72,7 @@ After running the above commands, our codes
 
 - generate Figure 1b in 'sim_dimension.pdf',
 
-- save the $\ell^2$ errors of $\hat{\theta}_{\lambda}$ and $\tilde{\theta}_{\lambda}$ in the real data experiments in 'l2error_mat.txt' and 'l2error_proj_mat.txt' respectively,
+- save the $\ell^2$ errors of $`\hat{\theta}_{\lambda}`$ and $`\tilde{\theta}_{\lambda}`$ in the real data experiments in 'l2error_mat.txt' and 'l2error_proj_mat.txt' respectively,
 
 - generate Figure 1c in 'exp_real_data.pdf'.
 
